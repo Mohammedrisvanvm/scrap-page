@@ -2,7 +2,7 @@
 import axios from "axios";
 import { load } from "cheerio";
 import fs from "fs";
-
+import parseUrlData from "../util/puppeteer.js";
 
 // Function to fetch HTML data from a given URL
 async function getHTML(url) {
@@ -60,7 +60,19 @@ export const scrape = (req, res) => {
         healthData["title"] = text;
         healthData["MedicalPolicyDocuments"] = MedicalPolicyDocuments;
       });
-    
+      // Array to store parsed data from medical policy documents
+      const responseData = [];
+
+      // Iterating over each document in the MedicalPolicyDocuments array
+      for (const document of healthData["MedicalPolicyDocuments"]) {
+        // Parsing data from the document URL and awaiting the response
+        const response = await parseUrlData(document);
+        // Adding the parsed response to the responseData array
+        responseData.push(response);
+      }
+
+      // Storing the parsed data in the healthData object under the key "policies"
+      healthData["policies"] = responseData;
 
       // Writing scraped data to a JSON file
       fs.writeFile("scrapedData.json", JSON.stringify(healthData), (err) => {
