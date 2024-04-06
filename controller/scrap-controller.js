@@ -12,6 +12,7 @@ async function getHTML(url) {
 
 // Controller function to scrape healthcare policy data
 export const scrape = (req, res) => {
+  res.setHeader("Connection", "keep-alive");
   try {
     // Extracting URL from query parameters
     const url = req.query.url;
@@ -20,9 +21,9 @@ export const scrape = (req, res) => {
     const healthData = {};
 
     // Fetching HTML data from the provided URL
-    getHTML(url).then(async (res) => {
+    getHTML(url).then(async (resp) => {
       // Parsing HTML using Cheerio
-      const $ = load(res);
+      const $ = load(resp);
 
       // Iterating over each main section in the HTML
       $("div.col-lg-12>main").each((i, element) => {
@@ -68,22 +69,21 @@ export const scrape = (req, res) => {
         // Parsing data from the document URL and awaiting the response
         const response = await parseUrlData(document);
         // Adding the parsed response to the responseData array
-        responseData.push(response);
+        if (response) responseData.push(response);
       }
 
       // Storing the parsed data in the healthData object under the key "policies"
       healthData["policies"] = responseData;
-
+      console.log(healthData);
       // Writing scraped data to a JSON file
       fs.writeFile("scrapedData.json", JSON.stringify(healthData), (err) => {
         if (err) throw err;
 
         console.log("file succesfully saved!");
       });
+      // Sending response indicating successful completion
+      res.status(200).json(healthData);
     });
-
-    // Sending response indicating successful completion
-    res.status(201).json("done");
   } catch (error) {
     // Handling errors
     res.status(500).json(error);
