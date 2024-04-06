@@ -79,12 +79,12 @@ http://localhost:3000/scrap?url=https://genhealth.ai/policy/anthem-bluecross-ct/
 >[!NOTE]
 Please ensure that URL arguments are passed through queries when making requests to the API.
 
-[!IMPORTANT]
+>[!IMPORTANT]
 This README provides instructions for working with the function, including the method, base URL, available URLs, and a sample request. Adjust the URLs and base URL as needed to match your actual API endpoints. Let me know if you need further assistance!
 
 ## Scrape Data View
 
-[!NOTE]
+>[!NOTE]
 You can view the scraped data in the following file:
 
 ```bash
