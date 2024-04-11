@@ -1,1 +1,793 @@
-{"title":"Oscar Medical Policy and Prior Auth Forms","MedicalPolicyDocuments":[{"Acupuncture (CG013)  (CG013)Policy":"https://genhealth.ai/policy/oscar/83c4fbad-acupuncture-cg013"},{"Acyclovir 5% ointment (Zovirax) (PG099)  (PG099)Policy":"https://genhealth.ai/policy/oscar/c49703ce-acyclovir-5-ointment-zovirax-pg099"},{"Adefovir Dipivoxil (Hepsera) (PG081)  (PG081)Policy":"https://genhealth.ai/policy/oscar/a667bb84-adefovir-dipivoxil-hepsera-pg081"},{"Albendazole (Albenza) (PG101)  (PG101)Policy":"https://genhealth.ai/policy/oscar/8ea16d20-albendazole-albenza-pg101"},{"Allergy Immunotherapy (CG059)  (CG059)Policy":"https://genhealth.ai/policy/oscar/b2683ec6-allergy-immunotherapy-cg059"},{"Alvesco (ciclesonide)(PG105)  (PG105)Policy":"https://genhealth.ai/policy/oscar/88cc4a5f-alvesco-ciclesonide-pg105"},{"Ambulance Services (CG057)  (CG057)Policy":"https://genhealth.ai/policy/oscar/b21d8116-ambulance-services-cg057"},{"Anesthesia and Sedation in Endoscopy (CG041)  (CG041)Policy":"https://genhealth.ai/policy/oscar/87da0679-anesthesia-and-sedation-in-endoscopy-cg041"},{"Antidiabetic Agent - SymlinPen (pramlintide acetate) (PG156)  (PG156)Policy":"https://genhealth.ai/policy/oscar/343ba51d-antidiabetic-agent-symlinpen-pramlintide-acetate-pg156"},{"Antidiabetic Agents - Dipeptidyl Peptidase-4 (DPP-4) Inhibitors & DPP-4 Antidiabetic Combinations (PG155)  (PG155)Policy":"https://genhealth.ai/policy/oscar/5843dc4d-antidiabetic-agents-dipeptidyl-peptidase-4-dpp-4-inhibitors-dpp-4-antidiabetic-combinations-pg155"},{"Antidiabetic Agents - Soliqua, Xultophy (PG153)  (PG153)Policy":"https://genhealth.ai/policy/oscar/186eeb43-antidiabetic-agents-soliqua-xultophy-pg153"},{"Apretude (cabotegravir extended-release injectable suspension) (PG158)  (PG158)Policy":"https://genhealth.ai/policy/oscar/445d8562-apretude-cabotegravir-extended-release-injectable-suspension-pg158"},{"Aptiom (eslicarbazepine acetate) (PG174)  (PG174)Policy":"https://genhealth.ai/policy/oscar/a30e381d-aptiom-eslicarbazepine-acetate-pg174"},{"Aripiprazole oral disintegrating tablet, solution (PG173)  (PG173)Policy":"https://genhealth.ai/policy/oscar/755a24f6-aripiprazole-oral-disintegrating-tablet-solution-pg173"},{"Armodafinil (Nuvigil) (PG036)  (PG036)Policy":"https://genhealth.ai/policy/oscar/914b64d7-armodafinil-nuvigil-pg036"},{"Asenapine (Saphris) (PG058)  (PG058)Policy":"https://genhealth.ai/policy/oscar/252ef67b-asenapine-saphris-pg058"},{"Azelaic acid 15% gel (PG059)  (PG059)Policy":"https://genhealth.ai/policy/oscar/534370ba-azelaic-acid-15-gel-pg059"},{"Azstarys (serdexmethylphenidate and dexmethylphenidate) (PG130)  (PG130)Policy":"https://genhealth.ai/policy/oscar/e31c372e-azstarys-serdexmethylphenidate-and-dexmethylphenidate-pg130"}],"policies":[{"policyName":"Acupuncture (CG013)  (CG013)Policy","policyLink":"https://genhealth.ai/policy/oscar/83c4fbad-acupuncture-cg013","procedureName":"Acupuncture for anesthesia substitution and certain conditions","effectiveDate":"NA","lastReviewedDate":"05/02/2023","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/rV94yF13niNgBFNAhPxxu/359fd2dc82170e806cead40cd0e9180f/CG013_Acupuncture.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"751609","question":"Is acupuncture prescribed by and will be performed by an appropriately licensed provider practicing within the scope of his or her license?","option":["Yes","No","NA"]},{"code":"751610","question":"Do medical records indicate a diagnosis with the date of onset or exacerbation of the disorder?","option":["Yes","No","NA"]},{"code":"751611","question":"Do medical records contain quantitative and objective short-term and long-term goals, including a reasonable estimate of when the goals will be reached and the frequency and expected duration of treatment?","option":["Yes","No","NA"]},{"code":"751612","question":"Is acupuncture being provided as an alternative to traditional perioperative anesthesia?","option":["Yes","No","NA"]},{"code":"751613","question":"Does the patient have nausea and vomiting associated with pregnancy, childbirth, chemotherapy, anti-neoplastic therapy, or postoperatively?","option":["Yes","No","NA"]},{"code":"751614","question":"Does the patient have postoperative dental pain?","option":["Yes","No","NA"]},{"code":"751615","question":"Has the patient been diagnosed with a chronic pain condition such as headaches/migraines, TMJ disorders, osteoarthritic knee/hip pain, or chronic back pain by a licensed medical practitioner lasting a minimum of 12 weeks?","option":["Yes","No","NA"]},{"code":"751616","question":"Has the patient shown meaningful and considerable improvement (i.e., pain decreased by >50% and/or functional improvement) after 4 weeks of acupuncture therapy? If not, is continuation of services being considered due to exhaustion of other treatments or contraindications to other treatments?","option":["Yes","No","NA"]},{"code":"751617","question":"After 12 weeks of acupuncture therapy, are services requested beyond this period?","option":["Yes","No","NA"]}],"Contraindications":[{"code":"751609","question":"Is acupuncture prescribed by and will be performed by an appropriately licensed provider practicing within the scope of his or her license?","option":["Yes","No","NA"]},{"code":"751610","question":"Do medical records indicate a diagnosis with the date of onset or exacerbation of the disorder?","option":["Yes","No","NA"]},{"code":"751611","question":"Do medical records contain quantitative and objective short-term and long-term goals, including a reasonable estimate of when the goals will be reached and the frequency and expected duration of treatment?","option":["Yes","No","NA"]},{"code":"751612","question":"Is acupuncture being provided as an alternative to traditional perioperative anesthesia?","option":["Yes","No","NA"]},{"code":"751613","question":"Does the patient have nausea and vomiting associated with pregnancy, childbirth, chemotherapy, anti-neoplastic therapy, or postoperatively?","option":["Yes","No","NA"]},{"code":"751614","question":"Does the patient have postoperative dental pain?","option":["Yes","No","NA"]},{"code":"751615","question":"Has the patient been diagnosed with a chronic pain condition such as headaches/migraines, TMJ disorders, osteoarthritic knee/hip pain, or chronic back pain by a licensed medical practitioner lasting a minimum of 12 weeks?","option":["Yes","No","NA"]},{"code":"751616","question":"Has the patient shown meaningful and considerable improvement (i.e., pain decreased by >50% and/or functional improvement) after 4 weeks of acupuncture therapy? If not, is continuation of services being considered due to exhaustion of other treatments or contraindications to other treatments?","option":["Yes","No","NA"]},{"code":"751617","question":"After 12 weeks of acupuncture therapy, are services requested beyond this period?","option":["Yes","No","NA"]}]},{"policyName":"Acyclovir 5% ointment (Zovirax) (PG099)  (PG099)Policy","policyLink":"https://genhealth.ai/policy/oscar/c49703ce-acyclovir-5-ointment-zovirax-pg099","procedureName":"Acyclovir 5% ointment (Zovirax) for genital herpes","effectiveDate":"10/14/2021","lastReviewedDate":"06/29/2022","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/4zPk7f2TyQv0aMenoT66EE/dff4c9238dc358e4461a1ef9cb31b05e/PG099_acyclovir_5-_ointment__Zovirax_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"402063","question":"Does the patient have a documented diagnosis of genital herpes and is the medication being used for treatment of the initial episode or recurrent outbreaks?","option":["Yes","No","NA"]},{"code":"402064","question":"Is the patient unable to use, or has tried and failed two of the following oral antiviral agents: acyclovir (Zovirax), famciclovir (Famvir), or valacyclovir (Valtrex)?","option":["Yes","No","NA"]},{"code":"402065","question":"Does the patient have a documented diagnosis of non-life-threatening, nongenital, mucocutaneous herpes simplex virus (HSV-1 or HSV-2) infections and is immunocompromised?","option":["Yes","No","NA"]},{"code":"402066","question":"Is the patient unable to use, or has tried and failed two of the following oral antiviral agents: acyclovir (Zovirax), famciclovir (Famvir), or valacyclovir (Valtrex)?","option":["Yes","No","NA"]},{"code":"402067","question":"Is the request for Acyclovir 5% ointment for an indication other than those specified as medically necessary?","option":["Yes","No","NA"]}],"Contraindications":[{"code":"402063","question":"Does the patient have a documented diagnosis of genital herpes and is the medication being used for treatment of the initial episode or recurrent outbreaks?","option":["Yes","No","NA"]},{"code":"402064","question":"Is the patient unable to use, or has tried and failed two of the following oral antiviral agents: acyclovir (Zovirax), famciclovir (Famvir), or valacyclovir (Valtrex)?","option":["Yes","No","NA"]},{"code":"402065","question":"Does the patient have a documented diagnosis of non-life-threatening, nongenital, mucocutaneous herpes simplex virus (HSV-1 or HSV-2) infections and is immunocompromised?","option":["Yes","No","NA"]},{"code":"402066","question":"Is the patient unable to use, or has tried and failed two of the following oral antiviral agents: acyclovir (Zovirax), famciclovir (Famvir), or valacyclovir (Valtrex)?","option":["Yes","No","NA"]},{"code":"402067","question":"Is the request for Acyclovir 5% ointment for an indication other than those specified as medically necessary?","option":["Yes","No","NA"]}]},{"policyName":"Adefovir Dipivoxil (Hepsera) (PG081)  (PG081)Policy","policyLink":"https://genhealth.ai/policy/oscar/a667bb84-adefovir-dipivoxil-hepsera-pg081","procedureName":"Adefovir Dipivoxil (Hepsera) Initial Authorization","effectiveDate":"11/05/2020","lastReviewedDate":"9/21/2022","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/3HNPx7te2Xa1UTqsS9Swks/b7a7e2cf0a9170cb38dd1ee179b169f4/PG081_Adefovir_Dipivoxil__Hepsera_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"271604","question":"Is the requested medication being prescribed by or in consultation with a gastroenterologist, hepatologist, or infectious disease specialist?","option":["Yes","No","(271605) Is the patient 12 years of age or older?"]},{"code":"","question":"Yes","option":["No","(271606) Does the patient have a documented diagnosis of chronic hepatitis B virus infection with evidence of active HBV replication?","Yes"]},{"code":"","question":"No","option":["(271607) Does the patient have persistent elevations in serum aminotransferase (ALT or AST) concentrations OR histologic evidence of active liver disease?","Yes","No"]},{"code":"271608","question":"Is the patient unable to use, or has tried and failed entecavir or tenofovir?","option":["Yes","No","(271609) Has chart documentation and supporting laboratory test results been provided for review?"]},{"code":"","question":"Yes","option":["No","(271610) Are recent (within the last 3 months) chart and laboratory test results available showing therapeutic response to Adefovir Dipivoxil (Hepsera)?","Yes"]},{"code":"","question":"No","option":["(271611) Was there a decrease or suppression of serum HBV DNA levels compared to baseline (pre-treatment), OR a decrease or normalization of serum aminotransferase (ALT or AST) concentrations compared to baseline (pre-treatment)?","Yes","No"]}]},{"policyName":"Albendazole (Albenza) (PG101)  (PG101)Policy","policyLink":"https://genhealth.ai/policy/oscar/8ea16d20-albendazole-albenza-pg101","procedureName":"Albendazole (Albenza) Initial Authorization","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/16q9ySBsN0p1l4EOQ3eLow/c929d1eb3ea163e114eee275da3d1959/PG101_Albendazole__Albenza_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"306155","question":"Does the patient have a documented diagnosis of a parasitic infection specified in criterion 1a or 1b?","option":["Yes","No","NA"]},{"code":"306156","question":"If applicable, has the patient tried and failed, or is unable to use over-the-counter pyrantel pamoate for enterobiasis, intestinal hookworm infections, oesophagostomiasis, or trichostrongyliasis?","option":["Yes","No","NA"]},{"code":"306157","question":"If applicable, has the patient tried and failed, or is unable to use all preferred alternatives for giardiasis treatment: metronidazole, nitazoxanide, or tinidazole?","option":["Yes","No","NA"]},{"code":"306158","question":"Have the required baseline tests been completed before initiating treatment (CBC, pregnancy test if applicable, ophthalmic exam)?","option":["Yes","No","NA"]},{"code":"306159","question":"Is chart documentation and supporting lab work provided for review?","option":["Yes","No","NA"]},{"code":"306160","question":"Is there a case-by-case evaluation demonstrating the ongoing medical necessity of albendazole based on specific diagnosis and response to prior treatment?","option":["Yes","No","NA"]},{"code":"306161","question":"Is the use of albendazole intended for any condition not listed as medically necessary or is considered experimental, investigational, or unproven according to the Plan?","option":["Yes","No","NA"]}],"Contraindications":[{"code":"306155","question":"Does the patient have a documented diagnosis of a parasitic infection specified in criterion 1a or 1b?","option":["Yes","No","NA"]},{"code":"306156","question":"If applicable, has the patient tried and failed, or is unable to use over-the-counter pyrantel pamoate for enterobiasis, intestinal hookworm infections, oesophagostomiasis, or trichostrongyliasis?","option":["Yes","No","NA"]},{"code":"306157","question":"If applicable, has the patient tried and failed, or is unable to use all preferred alternatives for giardiasis treatment: metronidazole, nitazoxanide, or tinidazole?","option":["Yes","No","NA"]},{"code":"306158","question":"Have the required baseline tests been completed before initiating treatment (CBC, pregnancy test if applicable, ophthalmic exam)?","option":["Yes","No","NA"]},{"code":"306159","question":"Is chart documentation and supporting lab work provided for review?","option":["Yes","No","NA"]},{"code":"306160","question":"Is there a case-by-case evaluation demonstrating the ongoing medical necessity of albendazole based on specific diagnosis and response to prior treatment?","option":["Yes","No","NA"]},{"code":"306161","question":"Is the use of albendazole intended for any condition not listed as medically necessary or is considered experimental, investigational, or unproven according to the Plan?","option":["Yes","No","NA"]}]},{"policyName":"Allergy Immunotherapy (CG059)  (CG059)Policy","policyLink":"https://genhealth.ai/policy/oscar/b2683ec6-allergy-immunotherapy-cg059","procedureName":"Subcutaneous immunotherapy (SCIT)","effectiveDate":"06/29/2023","lastReviewedDate":"06/29/2023","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/3hVd5ozdVHhuviEo8naNYN/5d169efaba05855625d77d49e7782cd5/CG059_Allergy_Immunotherapy.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"370551","question":"Is the patient diagnosed with allergies?","option":["Yes","No","(370552) Does the patient have a documented history of ONE of the following conditions: allergic rhinitis or conjunctivitis, allergic (extrinsic) asthma, or Hymenoptera sting/bite allergy?"]},{"code":"","question":"Yes","option":["No","(370553) For allergic rhinitis or conjunctivitis, has the patient experienced symptoms for at least TWO consecutive seasons or is it chronic (perennial)?","Yes"]},{"code":"","question":"No","option":["NA","(370554) For allergic (extrinsic) asthma, is the patient's Forced Expiratory Volume in 1 second (FEV1) >70% of the predicted age-specific value?","Yes"]},{"code":"","question":"No","option":["NA","(370555) For Hymenoptera sting/bite allergy, is there a documented anaphylactic or systemic reaction to the suspected offending venom?","Yes"]},{"code":"","question":"No","option":["NA","(370556) Has there been an inadequate response to medication trials, environmental avoidance, and other conservative methods applicable to the patient's condition?","Yes"]},{"code":"","question":"No","option":["(370557) Is there a documented positive skin prick test or serologic IgE test to the allergen being used for therapy?","Yes","No"]},{"code":"370558","question":"Is there expected therapeutic benefit from the treatment for each specific allergen?","option":["Yes","No","(370559) Is the patient currently pregnant, breastfeeding, or planning pregnancy within the duration of SCIT treatment?"]},{"code":"","question":"Yes","option":["No","(370560) Is the patient using beta blockers or has moderate to severe/uncontrolled asthma?","Yes"]},{"code":"","question":"No","option":["(370561) Does the patient have a history of severe reactions to any form of immunotherapy?","Yes","No"]},{"code":"370562","question":"Does the patient have any comorbidities that may reduce the ability to survive a severe reaction or reduce the effectiveness of epinephrine such as acute/chronic compromised lung function or significant cardiovascular disease?","option":["Yes","No","(370563) Does the member require rapid desensitization due to a specific medication allergy without alternative treatments or risk of serious health consequences?"]},{"code":"","question":"Yes","option":["No","NA","(370564) Is the member suffering from hymenoptera allergy and at reasonable risk of another bite/sting in the near future?"]},{"code":"","question":"Yes","option":["No","NA","(370565) Does the member have moderate to severe allergic conjunctivitis/rhinitis requiring treatment during or immediately before the allergy season?"]},{"code":"","question":"Yes","option":["No","NA","(370566) Is the member contemplating pregnancy with risks associated with current allergy medications upon becoming pregnant or is already initiating allergen immunotherapy?"]},{"code":"","question":"Yes","option":["No","NA",null]}],"Contraindications":[{"code":"370551","question":"Is the patient diagnosed with allergies?","option":["Yes","No","(370552) Does the patient have a documented history of ONE of the following conditions: allergic rhinitis or conjunctivitis, allergic (extrinsic) asthma, or Hymenoptera sting/bite allergy?"]},{"code":"","question":"Yes","option":["No","(370553) For allergic rhinitis or conjunctivitis, has the patient experienced symptoms for at least TWO consecutive seasons or is it chronic (perennial)?","Yes"]},{"code":"","question":"No","option":["NA","(370554) For allergic (extrinsic) asthma, is the patient's Forced Expiratory Volume in 1 second (FEV1) >70% of the predicted age-specific value?","Yes"]},{"code":"","question":"No","option":["NA","(370555) For Hymenoptera sting/bite allergy, is there a documented anaphylactic or systemic reaction to the suspected offending venom?","Yes"]},{"code":"","question":"No","option":["NA","(370556) Has there been an inadequate response to medication trials, environmental avoidance, and other conservative methods applicable to the patient's condition?","Yes"]},{"code":"","question":"No","option":["(370557) Is there a documented positive skin prick test or serologic IgE test to the allergen being used for therapy?","Yes","No"]},{"code":"370558","question":"Is there expected therapeutic benefit from the treatment for each specific allergen?","option":["Yes","No","(370559) Is the patient currently pregnant, breastfeeding, or planning pregnancy within the duration of SCIT treatment?"]},{"code":"","question":"Yes","option":["No","(370560) Is the patient using beta blockers or has moderate to severe/uncontrolled asthma?","Yes"]},{"code":"","question":"No","option":["(370561) Does the patient have a history of severe reactions to any form of immunotherapy?","Yes","No"]},{"code":"370562","question":"Does the patient have any comorbidities that may reduce the ability to survive a severe reaction or reduce the effectiveness of epinephrine such as acute/chronic compromised lung function or significant cardiovascular disease?","option":["Yes","No","(370563) Does the member require rapid desensitization due to a specific medication allergy without alternative treatments or risk of serious health consequences?"]},{"code":"","question":"Yes","option":["No","NA","(370564) Is the member suffering from hymenoptera allergy and at reasonable risk of another bite/sting in the near future?"]},{"code":"","question":"Yes","option":["No","NA","(370565) Does the member have moderate to severe allergic conjunctivitis/rhinitis requiring treatment during or immediately before the allergy season?"]},{"code":"","question":"Yes","option":["No","NA","(370566) Is the member contemplating pregnancy with risks associated with current allergy medications upon becoming pregnant or is already initiating allergen immunotherapy?"]},{"code":"","question":"Yes","option":["No","NA",null]}]},{"policyName":"Alvesco (ciclesonide)(PG105)  (PG105)Policy","policyLink":"https://genhealth.ai/policy/oscar/88cc4a5f-alvesco-ciclesonide-pg105","procedureName":"Alvesco (ciclesonide) Initial Authorization","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/3hpROiynQdyne8n35PouWZ/b49c0d287965dc1426629dffca1003fc/PG105_Alvesco__ciclesonide_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"150388","question":"Is the patient 12 years of age or older?","option":["Yes","No","NA"]},{"code":"150389","question":"Does the patient have a documented diagnosis of asthma?","option":["Yes","No","NA"]},{"code":"150390","question":"Is the requested product being used as preventative therapy for asthma maintenance control?","option":["Yes","No","NA"]},{"code":"150391","question":"Has the member inadequately responded to, or been unable to use, Arnuity Ellipta (fluticasone furoate)?","option":["Yes","No","NA"]},{"code":"150392","question":"Has the member inadequately responded to, or been unable to use, Flovent (fluticasone propionate)?","option":["Yes","No","NA"]},{"code":"150393","question":"Has the member inadequately responded to, or been unable to use, QVAR (beclomethasone dipropionate)?","option":["Yes","No","NA"]},{"code":"150394","question":"Is chart documentation provided to substantiate the above listed requirements?","option":["Yes","No","NA"]},{"code":"150395","question":"Does the member still meet the applicable initial criteria?","option":["Yes","No","NA"]},{"code":"150396","question":"Does the chart documentation show the member has experienced clinical improvement in symptoms since starting the requested medication?","option":["Yes","No","Not Applicable"]},{"code":"150397","question":"Does the chart documentation show the member's disease has been stable since starting the requested medication?","option":["Yes","No","Not Applicable"]},{"code":"150398","question":"Has the member maintained adherence to the prescribed dosing regimen as evidenced by pharmacy claims record?","option":["Yes","No","NA"]},{"code":"150399","question":"Is Alvesco (ciclesonide) requested for an indication other than those deemed medically necessary by the Plan?","option":["Yes","No","NA"]}],"Contraindications":[{"code":"150388","question":"Is the patient 12 years of age or older?","option":["Yes","No","NA"]},{"code":"150389","question":"Does the patient have a documented diagnosis of asthma?","option":["Yes","No","NA"]},{"code":"150390","question":"Is the requested product being used as preventative therapy for asthma maintenance control?","option":["Yes","No","NA"]},{"code":"150391","question":"Has the member inadequately responded to, or been unable to use, Arnuity Ellipta (fluticasone furoate)?","option":["Yes","No","NA"]},{"code":"150392","question":"Has the member inadequately responded to, or been unable to use, Flovent (fluticasone propionate)?","option":["Yes","No","NA"]},{"code":"150393","question":"Has the member inadequately responded to, or been unable to use, QVAR (beclomethasone dipropionate)?","option":["Yes","No","NA"]},{"code":"150394","question":"Is chart documentation provided to substantiate the above listed requirements?","option":["Yes","No","NA"]},{"code":"150395","question":"Does the member still meet the applicable initial criteria?","option":["Yes","No","NA"]},{"code":"150396","question":"Does the chart documentation show the member has experienced clinical improvement in symptoms since starting the requested medication?","option":["Yes","No","Not Applicable"]},{"code":"150397","question":"Does the chart documentation show the member's disease has been stable since starting the requested medication?","option":["Yes","No","Not Applicable"]},{"code":"150398","question":"Has the member maintained adherence to the prescribed dosing regimen as evidenced by pharmacy claims record?","option":["Yes","No","NA"]},{"code":"150399","question":"Is Alvesco (ciclesonide) requested for an indication other than those deemed medically necessary by the Plan?","option":["Yes","No","NA"]}]},{"policyName":"Ambulance Services (CG057)  (CG057)Policy","policyLink":"https://genhealth.ai/policy/oscar/b21d8116-ambulance-services-cg057","procedureName":"Emergency Ground Transport","effectiveDate":"05/05/2020","lastReviewedDate":"10/19/2023","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/3OnU1EAUmcXXfp1s3tUG0O/5f2b1b5b00ac6a6c35a4f3f541cfb75a/CG057_Ambulance_Services.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"497937","question":"Does the patient's medical condition meet the definition of emergency as per the plan or local, state, or federal laws?","option":["Yes","No","(497938) Would non-emergency transport or non-medical transport options be unsafe or medically contraindicated for the patient?"]},{"code":"","question":"Yes","option":["No","(497939) Will the patient be transported to the nearest acute care hospital that can provide the necessary level of care (in-network if possible)?","Yes"]},{"code":"","question":"No","option":["(497940) Does the transportation have the required equipment and personnel, and meet state and federal regulations for medical transport?","Yes","No"]},{"code":"497941","question":"Does the patient meet all criteria for emergency ground medical transport?","option":["Yes","No","(497942) Is at least one of the following present: Inaccessibility by ground, potential threat to life or health due to transport time by other means, or distance over 30 miles/transport time by ground would take 30-60 mins, with air/water providing faster access to an appropriate facility?"]},{"code":"","question":"Yes","option":["No","(497943) Are supplies needed for advanced or basic life support to stabilize the patient's condition?","Yes"]},{"code":"","question":"No","option":["NA","(497944) Are EMT or paramedic services required at the scene prior to and during ambulance transportation?","Yes"]},{"code":"","question":"No","option":["NA","(497945) Is wait time associated with the ambulance transportation part of the required services?","Yes"]},{"code":"","question":"No","option":["NA","(497946) If the initial hospital cannot provide the required level of care, is transportation to the appropriate hospital considered necessary?","Yes"]},{"code":"","question":"No","option":["NA","(497947) Is the patient's specific condition such that any other form of transport would be unsafe or medically contraindicated?","Yes"]},{"code":"","question":"No","option":["(497948) Is the transport between facilities due to a service/procedure not available at the current facility or transfer from out-of-network to in-network?","Yes","No"]},{"code":"497949","question":"Does the transportation comply with required equipment, personnel, and regulatory requirements?","option":["Yes","No","(497950) Does the patient meet all criteria for non-emergency ground medical transport?"]},{"code":"","question":"Yes","option":["No","(497951) Is the transport between acute/subacute care facilities warranted by distance or geography precluding safe transport by other means?","Yes"]},{"code":"","question":"No","option":["(497952) Could the patient have been safely transported by another form of non-medical transport?","Yes","No"]},{"code":"497953","question":"Is the air ambulance being requested for a location/facility not listed above such as to physicians' offices, nursing facilities, or non-medical locations?","option":["Yes","No","(497954) Is the requested transportation solely for the convenience of the patient, patient’s family, or physician?"]},{"code":"","question":"Yes","option":["No","(497955) Is the transportation to a member’s preferred hospital or facility based on personal preference without regard to proximity to an in-network facility that meets medical needs?","Yes"]},{"code":"","question":"No","option":["(497956) Was the member pronounced dead AFTER qualifying medical transport was called or en route to the healthcare facility?","Yes","No"]},{"code":"","question":"NA","option":["(497957) Was death pronounced before the transport arrived or before a call for transport was made?","Yes","No"]},{"code":"","question":"NA","option":[null,null,null]}],"Contraindications":[{"code":"497937","question":"Does the patient's medical condition meet the definition of emergency as per the plan or local, state, or federal laws?","option":["Yes","No","(497938) Would non-emergency transport or non-medical transport options be unsafe or medically contraindicated for the patient?"]},{"code":"","question":"Yes","option":["No","(497939) Will the patient be transported to the nearest acute care hospital that can provide the necessary level of care (in-network if possible)?","Yes"]},{"code":"","question":"No","option":["(497940) Does the transportation have the required equipment and personnel, and meet state and federal regulations for medical transport?","Yes","No"]},{"code":"497941","question":"Does the patient meet all criteria for emergency ground medical transport?","option":["Yes","No","(497942) Is at least one of the following present: Inaccessibility by ground, potential threat to life or health due to transport time by other means, or distance over 30 miles/transport time by ground would take 30-60 mins, with air/water providing faster access to an appropriate facility?"]},{"code":"","question":"Yes","option":["No","(497943) Are supplies needed for advanced or basic life support to stabilize the patient's condition?","Yes"]},{"code":"","question":"No","option":["NA","(497944) Are EMT or paramedic services required at the scene prior to and during ambulance transportation?","Yes"]},{"code":"","question":"No","option":["NA","(497945) Is wait time associated with the ambulance transportation part of the required services?","Yes"]},{"code":"","question":"No","option":["NA","(497946) If the initial hospital cannot provide the required level of care, is transportation to the appropriate hospital considered necessary?","Yes"]},{"code":"","question":"No","option":["NA","(497947) Is the patient's specific condition such that any other form of transport would be unsafe or medically contraindicated?","Yes"]},{"code":"","question":"No","option":["(497948) Is the transport between facilities due to a service/procedure not available at the current facility or transfer from out-of-network to in-network?","Yes","No"]},{"code":"497949","question":"Does the transportation comply with required equipment, personnel, and regulatory requirements?","option":["Yes","No","(497950) Does the patient meet all criteria for non-emergency ground medical transport?"]},{"code":"","question":"Yes","option":["No","(497951) Is the transport between acute/subacute care facilities warranted by distance or geography precluding safe transport by other means?","Yes"]},{"code":"","question":"No","option":["(497952) Could the patient have been safely transported by another form of non-medical transport?","Yes","No"]},{"code":"497953","question":"Is the air ambulance being requested for a location/facility not listed above such as to physicians' offices, nursing facilities, or non-medical locations?","option":["Yes","No","(497954) Is the requested transportation solely for the convenience of the patient, patient’s family, or physician?"]},{"code":"","question":"Yes","option":["No","(497955) Is the transportation to a member’s preferred hospital or facility based on personal preference without regard to proximity to an in-network facility that meets medical needs?","Yes"]},{"code":"","question":"No","option":["(497956) Was the member pronounced dead AFTER qualifying medical transport was called or en route to the healthcare facility?","Yes","No"]},{"code":"","question":"NA","option":["(497957) Was death pronounced before the transport arrived or before a call for transport was made?","Yes","No"]},{"code":"","question":"NA","option":[null,null,null]}]},{"policyName":"Anesthesia and Sedation in Endoscopy (CG041)  (CG041)Policy","policyLink":"https://genhealth.ai/policy/oscar/87da0679-anesthesia-and-sedation-in-endoscopy-cg041","procedureName":"General Anesthesia, MAC, or Deep Sedation in Endoscopy for High-Risk Patients","effectiveDate":"NA","lastReviewedDate":"10/19/2023","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/6eJNxZQSnUjcLL4TwLlxjV/0afa4e4be6a6ad9407a7286e0fafd89f/CG041_Anesthesia_and_Sedation_in_Endoscopic_Procedures.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"337202","question":"Does the patient have a significant medical condition defined by ASA Physical Status Class III-V?","option":["Yes","No","(337203) Is the patient pregnant?"]},{"code":"","question":"Yes","option":["No","(337204) Does the patient have epilepsy?","Yes"]},{"code":"","question":"No","option":["(337205) Is the patient less than 18 years of age?","Yes","No"]},{"code":"337206","question":"Is the patient greater than 70 years of age and meets at least one other criteria from 1-4?","option":["Yes","No","(337207) Is there any risk for airway compromise due to reasons such as obstructive sleep apnea, modified Mallampati classification Class III-IV, or neck/jaw abnormalities?"]},{"code":"","question":"Yes","option":["No","(337208) Is there an anticipated intolerance to standard sedatives due to past reactions or substance abuse?","Yes"]},{"code":"","question":"No","option":["(337209) Will the procedure potentially require deep sedation or general anesthesia due to patient's conditions such as uncooperative behavior or complex procedures?","Yes","No"]}]},{"policyName":"Antidiabetic Agent - SymlinPen (pramlintide acetate) (PG156)  (PG156)Policy","policyLink":"https://genhealth.ai/policy/oscar/343ba51d-antidiabetic-agent-symlinpen-pramlintide-acetate-pg156","procedureName":"SymlinPen (pramlintide acetate) for Type 1 or Type 2 Diabetes Mellitus","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/1NeseflPOHa6s4iMdMZAsb/bff1d7d2ac1863f47d85cd07f572d97d/PG156_Antidiabetic_Agent_-_Symlinpen.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"969753","question":"Does the patient have a diagnosis of type 1 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"969754","question":"Does the patient have a diagnosis of type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"969755","question":"Has the patient failed to achieve desired glucose control despite receiving optimal insulin therapy, including mealtime insulin?","option":["Yes","No","NA"]},{"code":"969756","question":"Has the patient been receiving SymlinPen (Pramlintide) for at least 3 months AND demonstrated a reduction in A1c since starting this therapy?","option":["Yes","No","NA"]},{"code":"969757","question":"Is SymlinPen (Pramlintide) being requested for any indication other than as an adjunctive treatment for patients with type 1 or type 2 diabetes mellitus who use mealtime insulin therapy and have not achieved glucose control with optimal insulin therapy?","option":["Yes","No",null]}],"Contraindications":[{"code":"969753","question":"Does the patient have a diagnosis of type 1 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"969754","question":"Does the patient have a diagnosis of type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"969755","question":"Has the patient failed to achieve desired glucose control despite receiving optimal insulin therapy, including mealtime insulin?","option":["Yes","No","NA"]},{"code":"969756","question":"Has the patient been receiving SymlinPen (Pramlintide) for at least 3 months AND demonstrated a reduction in A1c since starting this therapy?","option":["Yes","No","NA"]},{"code":"969757","question":"Is SymlinPen (Pramlintide) being requested for any indication other than as an adjunctive treatment for patients with type 1 or type 2 diabetes mellitus who use mealtime insulin therapy and have not achieved glucose control with optimal insulin therapy?","option":["Yes","No",null]}]},{"policyName":"Antidiabetic Agents - Dipeptidyl Peptidase-4 (DPP-4) Inhibitors & DPP-4 Antidiabetic Combinations (PG155)  (PG155)Policy","policyLink":"https://genhealth.ai/policy/oscar/5843dc4d-antidiabetic-agents-dipeptidyl-peptidase-4-dpp-4-inhibitors-dpp-4-antidiabetic-combinations-pg155","procedureName":"Dipeptidyl Peptidase-4 (DPP-4) Inhibitors","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/3P3ZG1JQhk3rBfsAkrR4Xr/acf867509ab09c64584af3de50aadc00/PG155_Antidiabetic_Agents_-_Antidiabetic_Agents_-_Dipeptidyl_Peptidase-4__DPP-4__Inhibitors___DPP-4_Antidiabetic_Combination.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"532129","question":"Is the medication age-appropriate for the member as per the FDA-approved indication?","option":["Yes","No","NA"]},{"code":"532130","question":"Has the patient been diagnosed with type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"532131","question":"Does the patient's diagnosis of type 2 diabetes mellitus meet at least one of the following criteria: fasting glucose level >126 mg/dL, a 2-hour glucose tolerance test result >200 mg/dL, Hemoglobin A1c ≥6.5%, or symptoms of hyperglycemia plus random plasma glucose ≥200 mg/dL?","option":["Yes","No","NA"]},{"code":"532132","question":"If applicable, have abnormal diagnostic results been confirmed on a second occasion, unless unequivocal?","option":["Yes","No","NA"]},{"code":"532133","question":"Is the patient unable to use, or has adequately tried and failed metformin at a minimum dose of 1500 milligrams daily for 90 days?","option":["Yes","No","NA"]},{"code":"532134","question":"Does the patient require combination therapy AND has an A1c (hemoglobin A1c) of 7.5 percent or greater?","option":["Yes","No","NA"]},{"code":"532135","question":"Has the patient been receiving the requested drug for at least 3 months AND demonstrated a reduction in A1c since starting this therapy?","option":["Yes","No","NA"]},{"code":"532136","question":"Is the request for a non-formulary medication subject to Medical Necessity Criteria for Non-Formulary Products (PG069)?","option":["Yes","No","NA"]},{"code":"532137","question":"Does the patient's benefit plan include coverage for drugs prescribed for obesity treatment or weight management which may impact Drug eligibility?","option":["Yes","No","NA"]}]},{"policyName":"Antidiabetic Agents - Soliqua, Xultophy (PG153)  (PG153)Policy","policyLink":"https://genhealth.ai/policy/oscar/186eeb43-antidiabetic-agents-soliqua-xultophy-pg153","procedureName":"Soliqua (Insulin Glargine; Lixisenatide)","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/bzje7q8SnnJohcz7skK0V/ad66c125259e391f2bf9864e871bd418/PG153_Antidiabetic_Agents_-_Antidiabetic_Agents_-_Soliqua__Xultophy.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"142207","question":"Is the medication prescribed to improve glycemic control in adult members with type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"142208","question":"Is the member age-appropriate for Soliqua as per FDA-approved indications?","option":["Yes","No","NA"]},{"code":"142209","question":"Has the member been diagnosed with type 2 diabetes mellitus with fasting glucose >126 mg/dL, a 2-hr glucose tolerance test result >200 mg/dL, HbA1c ≥6.5%, or symptoms of hyperglycemia plus random plasma glucose >200 mg/dL confirmed on a second occasion unless unequivocal?","option":["Yes","No","NA"]},{"code":"142210","question":"Is the member unable to use, or has the member adequately tried and failed metformin at a minimum dose of 1500 milligrams daily for 90 days?","option":["Yes","No","NA"]},{"code":"142211","question":"Does the member require combination therapy AND has an A1c of 7.5 percent or greater?","option":["Yes","No","NA"]},{"code":"142212","question":"Has the member been receiving Soliqua for at least 3 months with demonstrated reduction in A1c?","option":["Yes","No","NA"]},{"code":"142213","question":"Does the member have a history of pancreatitis?","option":["Yes","No","NA"]},{"code":"142214","question":"Is Soliqua intended for use in combination with any other product containing a GLP-1 receptor agonist?","option":["Yes","No","NA"]},{"code":"142215","question":"Is the medication indicated for members with type 1 diabetes mellitus or for treatment of diabetic ketoacidosis?","option":["Yes","No","NA"]},{"code":"142216","question":"Has the member been studied in patients with gastroparesis or is it recommended for such patients?","option":["Yes","No","NA"]},{"code":"142217","question":"Has Soliqua been studied in combination with prandial insulin?","option":["Yes","No","NA"]},{"code":"142218","question":"Is the medication prescribed to improve glycemic control in adult members with type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"142219","question":"Is the member age-appropriate for Xultophy as per FDA-approved indications?","option":["Yes","No","NA"]},{"code":"142220","question":"Has the member been diagnosed with type 2 diabetes mellitus with fasting glucose >126 mg/dL, a 2-hr glucose tolerance test result >200 mg/dL, HbA1c ≥6.5%, or symptoms of hyperglycemia plus random plasma glucose >200 mg/dL confirmed on a second occasion unless unequivocal?","option":["Yes","No","NA"]},{"code":"142221","question":"Is the member unable to use, or has the member adequately tried and failed metformin at a minimum dose of 1500 milligrams daily for 90 days?","option":["Yes","No","NA"]},{"code":"142222","question":"Does the member require combination therapy AND has an A1c of 7.5 percent or greater?","option":["Yes","No","NA"]},{"code":"142223","question":"Has the member been receiving Xultophy for at least 3 months with demonstrated reduction in A1c?","option":["Yes","No","NA"]},{"code":"142224","question":"Is Xultophy not recommended for first-line therapy for patients who have inadequate glycemic control on diet and exercise due to the uncertain relevance of rodent C-cell tumor findings to humans?","option":["Yes","No","NA"]},{"code":"142225","question":"Is Xultophy intended for use in combination with any other product containing liraglutide or another GLP-1 receptor agonist?","option":["Yes","No","NA"]},{"code":"142226","question":"Is the medication indicated for members with type 1 diabetes mellitus or for treatment of diabetic ketoacidosis?","option":["Yes","No","NA"]}],"Contraindications":[{"code":"142207","question":"Is the medication prescribed to improve glycemic control in adult members with type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"142208","question":"Is the member age-appropriate for Soliqua as per FDA-approved indications?","option":["Yes","No","NA"]},{"code":"142209","question":"Has the member been diagnosed with type 2 diabetes mellitus with fasting glucose >126 mg/dL, a 2-hr glucose tolerance test result >200 mg/dL, HbA1c ≥6.5%, or symptoms of hyperglycemia plus random plasma glucose >200 mg/dL confirmed on a second occasion unless unequivocal?","option":["Yes","No","NA"]},{"code":"142210","question":"Is the member unable to use, or has the member adequately tried and failed metformin at a minimum dose of 1500 milligrams daily for 90 days?","option":["Yes","No","NA"]},{"code":"142211","question":"Does the member require combination therapy AND has an A1c of 7.5 percent or greater?","option":["Yes","No","NA"]},{"code":"142212","question":"Has the member been receiving Soliqua for at least 3 months with demonstrated reduction in A1c?","option":["Yes","No","NA"]},{"code":"142213","question":"Does the member have a history of pancreatitis?","option":["Yes","No","NA"]},{"code":"142214","question":"Is Soliqua intended for use in combination with any other product containing a GLP-1 receptor agonist?","option":["Yes","No","NA"]},{"code":"142215","question":"Is the medication indicated for members with type 1 diabetes mellitus or for treatment of diabetic ketoacidosis?","option":["Yes","No","NA"]},{"code":"142216","question":"Has the member been studied in patients with gastroparesis or is it recommended for such patients?","option":["Yes","No","NA"]},{"code":"142217","question":"Has Soliqua been studied in combination with prandial insulin?","option":["Yes","No","NA"]},{"code":"142218","question":"Is the medication prescribed to improve glycemic control in adult members with type 2 diabetes mellitus?","option":["Yes","No","NA"]},{"code":"142219","question":"Is the member age-appropriate for Xultophy as per FDA-approved indications?","option":["Yes","No","NA"]},{"code":"142220","question":"Has the member been diagnosed with type 2 diabetes mellitus with fasting glucose >126 mg/dL, a 2-hr glucose tolerance test result >200 mg/dL, HbA1c ≥6.5%, or symptoms of hyperglycemia plus random plasma glucose >200 mg/dL confirmed on a second occasion unless unequivocal?","option":["Yes","No","NA"]},{"code":"142221","question":"Is the member unable to use, or has the member adequately tried and failed metformin at a minimum dose of 1500 milligrams daily for 90 days?","option":["Yes","No","NA"]},{"code":"142222","question":"Does the member require combination therapy AND has an A1c of 7.5 percent or greater?","option":["Yes","No","NA"]},{"code":"142223","question":"Has the member been receiving Xultophy for at least 3 months with demonstrated reduction in A1c?","option":["Yes","No","NA"]},{"code":"142224","question":"Is Xultophy not recommended for first-line therapy for patients who have inadequate glycemic control on diet and exercise due to the uncertain relevance of rodent C-cell tumor findings to humans?","option":["Yes","No","NA"]},{"code":"142225","question":"Is Xultophy intended for use in combination with any other product containing liraglutide or another GLP-1 receptor agonist?","option":["Yes","No","NA"]},{"code":"142226","question":"Is the medication indicated for members with type 1 diabetes mellitus or for treatment of diabetic ketoacidosis?","option":["Yes","No","NA"]}]},{"policyName":"Apretude (cabotegravir extended-release injectable suspension) (PG158)  (PG158)Policy","policyLink":"https://genhealth.ai/policy/oscar/445d8562-apretude-cabotegravir-extended-release-injectable-suspension-pg158","procedureName":"Initial Authorization of Apretude (cabotegravir)","effectiveDate":"09/05/2023","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/4oOgoyHIvXXaPPhFzyyMwN/0fa63db21dd64797686dd7e79a15bde6/PG158_Apretude__cabotegravir_extended-release_injectable_suspension_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"749025","question":"Is the patient at least 12 years of age and weighing at least 35 kg (77 lbs) or greater?","option":["Yes","No","NA"]},{"code":"749026","question":"Is Apretude being prescribed for PrEP to reduce the risk of sexually acquired HIV-1 infection?","option":["Yes","No","NA"]},{"code":"749027","question":"Does the patient meet one of the following criteria: an HIV-positive sexual partner, recent sexually transmitted infection, multiple sex partners, history of inconsistent or no condom use, commercial sex work, transactional sex, living in a high-prevalence area or network, injection drug use at substantial risk of HIV acquisition, or sharing injection equipment?","option":["Yes","No","NA"]},{"code":"749028","question":"Has the patient been documented to be HIV-1-negative prior to initiating therapy with Apretude?","option":["Yes","No","NA"]},{"code":"749029","question":"Is the patient unable to use, or not an appropriate candidate for emtricitabine and tenofovir disoproxil fumarate (Truvada), due to clinical rationale such as history of non-adherence to once-daily oral PrEP regimen, baseline renal dysfunction, risk of renal impairment, osteoporosis, low bone mineral density, or risk of developing low bone mineral density?","option":["Yes","No","NA"]},{"code":"749030","question":"Does the patient still meet the applicable initial criteria for PrEP with Apretude?","option":["Yes","No","NA"]},{"code":"749031","question":"Is there recent chart documentation (within the last 3 months) indicating that the patient has experienced a therapeutic response to Apretude as evidenced by a documented negative HIV test?","option":["Yes","No","NA"]}]},{"policyName":"Aptiom (eslicarbazepine acetate) (PG174)  (PG174)Policy","policyLink":"https://genhealth.ai/policy/oscar/a30e381d-aptiom-eslicarbazepine-acetate-pg174","procedureName":"Aptiom (eslicarbazepine acetate) for Treatment of Partial-Onset Seizures - Initial Authorization","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/6zFbGydYegYmP9p4iADxdh/9cf559dd8b2798bfbcb1bf4054e9ddd8/PG174_Aptiom__eslicarbazepine_acetate_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"452140","question":"Is the medication prescribed by or in consultation with a neurologist or epilepsy specialist?","option":["Yes","No","(452141) Is the patient 4 years of age or older?"]},{"code":"","question":"Yes","option":["No","(452142) Does the patient have a diagnosis of focal seizures (i.e., partial-onset seizures, partial seizures)?","Yes"]},{"code":"","question":"No","option":["(452143) Has the patient shown documented evidence of inadequate seizure control with at least two alternate antiepileptic drugs at maximally tolerated doses?","Yes","No"]},{"code":"452144","question":"Is Aptiom being prescribed at a dose and frequency that is within FDA approved labeling OR supported by compendia or evidence-based published dosing guidelines?","option":["Yes","No","(452145) Is the medication still prescribed by or in consultation with a neurologist or epilepsy specialist for reauthorization?"]},{"code":"","question":"Yes","option":["No","(452146) Has the patient experienced a documented improvement in seizure control shown by decreased seizure frequency, severity, or duration from baseline?","Yes"]},{"code":"","question":"No","option":["(452147) Is Aptiom (eslicarbazepine acetate) being used for indications such as Bipolar I Disorder, Fibromyalgia, Migraine, Neuropathic Pain, other forms of Epilepsies, Painful Diabetic Neuropathy (PDN), or Postherpetic Neuralgia?","Yes","No"]}],"Contraindications":[{"code":"452140","question":"Is the medication prescribed by or in consultation with a neurologist or epilepsy specialist?","option":["Yes","No","(452141) Is the patient 4 years of age or older?"]},{"code":"","question":"Yes","option":["No","(452142) Does the patient have a diagnosis of focal seizures (i.e., partial-onset seizures, partial seizures)?","Yes"]},{"code":"","question":"No","option":["(452143) Has the patient shown documented evidence of inadequate seizure control with at least two alternate antiepileptic drugs at maximally tolerated doses?","Yes","No"]},{"code":"452144","question":"Is Aptiom being prescribed at a dose and frequency that is within FDA approved labeling OR supported by compendia or evidence-based published dosing guidelines?","option":["Yes","No","(452145) Is the medication still prescribed by or in consultation with a neurologist or epilepsy specialist for reauthorization?"]},{"code":"","question":"Yes","option":["No","(452146) Has the patient experienced a documented improvement in seizure control shown by decreased seizure frequency, severity, or duration from baseline?","Yes"]},{"code":"","question":"No","option":["(452147) Is Aptiom (eslicarbazepine acetate) being used for indications such as Bipolar I Disorder, Fibromyalgia, Migraine, Neuropathic Pain, other forms of Epilepsies, Painful Diabetic Neuropathy (PDN), or Postherpetic Neuralgia?","Yes","No"]}]},{"policyName":"Aripiprazole oral disintegrating tablet, solution (PG173)  (PG173)Policy","policyLink":"https://genhealth.ai/policy/oscar/755a24f6-aripiprazole-oral-disintegrating-tablet-solution-pg173","procedureName":"Initial Authorization for Valtoco (diazepam nasal spray), Nayzilam (midazolam nasal spray), or Diastat (diazepam rectal gel)","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/b6msHUsBA7FgumhLAui76/416d6f324b51c70def9adebc186f3c3a/PG181_Benzodiazepines_for_Acute_Repetitive_Seizures_or_Seizure_Clusters.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"51083","question":"Is the medication prescribed by or in consultation with a neurologist?","option":["Yes","No","(51084) Has the safety and efficacy of the requested medication been established for the patient's age as evidenced by FDA-approved labeling?"]},{"code":"","question":"Yes","option":["No","(51085) Does the patient have a diagnosis of epilepsy?","Yes"]},{"code":"","question":"No","option":["(51086) Does the patient experience intermittent, stereotypic episodes of frequent seizure activity that are distinct from the patient's usual seizure pattern?","Yes","No"]},{"code":"51087","question":"Is the patient currently on a stable regimen of anti-epileptic drugs (AEDs)?","option":["Yes","No","(51088) Is the requested nasal spray or rectal gel prescribed at a dose and frequency within FDA approved labeling?"]},{"code":"","question":"Yes","option":["No","(51089) Is the medication still prescribed by or in consultation with a neurologist upon reauthorization?","Yes"]},{"code":"","question":"No","option":["(51090) Has the member shown clinical benefit from the use of medication documented in the last 3 months (decreased frequency/duration of seizures, reduced hospitalizations, improved quality of life)?","Yes","No"]},{"code":"51091","question":"Is the medication still prescribed at a dose and frequency within FDA approved labeling upon reauthorization?","option":["Yes","No","(51092) Are the additional doses requested for travel purposes?"]},{"code":"","question":"Yes","option":["No","(51093) Are the additional doses requested to be stored at a school or work location?","Yes"]},{"code":"","question":"No","option":["(51094) Is the medication being requested for an indication other than those specified in this document?","Yes","No"]}]},{"policyName":"Armodafinil (Nuvigil) (PG036)  (PG036)Policy","policyLink":"https://genhealth.ai/policy/oscar/914b64d7-armodafinil-nuvigil-pg036","procedureName":"Armodafinil (Nuvigil) for the treatment of Narcolepsy","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/bZWuafydguiNFGGyKSArk/84cbb2d58eba16cca17af79c854d2e86/PG036_armodafinil__Nuvigil_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"198054","question":"Is the patient 17 years of age or older?","option":["Yes","No","(198055) Has the patient been diagnosed with narcolepsy confirmed by Multiple Sleep Latency Test (MSLT) or Cerebrospinal fluid (CSF) hypocretin-1 laboratory test?"]},{"code":"","question":"Yes","option":["No","(198056) Does the patient experience daily periods of excessive daytime sleepiness occurring for at least three months?","Yes"]},{"code":"","question":"No","option":["(198057) Is the patient 17 years of age or older?","Yes","No"]},{"code":"198058","question":"Has the patient been diagnosed with obstructive sleep apnea, confirmed by polysomnography or a home sleep apnea test?","option":["Yes","No","(198059) Is the patient currently using and adherent to conventional therapy such as Positive Airway Pressure Therapy like CPAP, or Oral Appliances like mandibular advancement devices?"]},{"code":"","question":"Yes","option":["No","(198060) Is the patient 17 years of age or older?","Yes"]},{"code":"","question":"No","option":["(198061) Has the patient been diagnosed with Shift Work Sleep Disorder?","Yes","No"]},{"code":"198062","question":"Have non-pharmacological therapies such as setting a sleep schedule and improving sleep hygiene been tried and failed?","option":["Yes","No","(198063) Does the patient still meet the applicable initial criteria?"]},{"code":"","question":"Yes","option":["No","(198064) Does chart documentation show that the patient has experienced clinical improvement in symptoms since starting armodafinil?","Yes"]},{"code":"","question":"No","option":[null,null,null]}]},{"policyName":"Asenapine (Saphris) (PG058)  (PG058)Policy","policyLink":"https://genhealth.ai/policy/oscar/252ef67b-asenapine-saphris-pg058","procedureName":"Asenapine (Saphris) for Bipolar Disorder","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/1y8fd2jN5Uq9ELlCIr0pfW/0df2bea121331d8e09792fdf4098b88a/PG058_asenapine__Saphris_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"728493","question":"Is the medication prescribed by or in consultation with a psychiatrist?","option":["Yes","No","(728494) Is the patient 10 years of age or older?"]},{"code":"","question":"Yes","option":["No","(728495) Does the patient have a diagnosis of bipolar disorder?","Yes"]},{"code":"","question":"No","option":["(728496) Has the patient been unable to use or has adequately tried and failed at least a one-month trial to two of the specified antipsychotic agents?","Yes","No"]},{"code":"728497","question":"Is clinical chart documentation provided for review to substantiate the above listed requirements?","option":["Yes","No","(728498) Is the medication prescribed by or in consultation with a psychiatrist?"]},{"code":"","question":"Yes","option":["No","(728499) Is the patient 18 years of age or older?","Yes"]},{"code":"","question":"No","option":["(728500) Does the patient have a diagnosis of schizophrenia?","Yes","No"]},{"code":"728501","question":"Has the patient been unable to use or has adequately tried and failed at least a one-month trial to two of the specified antipsychotic agents?","option":["Yes","No","(728502) Is clinical chart documentation provided for review to substantiate the above listed requirements?"]},{"code":"","question":"Yes","option":["No","(728503) Is the medication prescribed by or in consultation with a psychiatrist?","Yes"]},{"code":"","question":"No","option":["(728504) Is the patient 18 years of age or older?","Yes","No"]},{"code":"728505","question":"Does the patient have a diagnosis of schizoaffective disorder?","option":["Yes","No","(728506) Has the patient been unable to use or has adequately tried and failed at least a one-month trial to both paliperidone and one other specified antipsychotic agent?"]},{"code":"","question":"Yes","option":["No","(728507) Is clinical chart documentation provided for review to substantiate the above listed requirements?","Yes"]},{"code":"","question":"No","option":["(728508) Is the medication prescribed by or in consultation with a psychiatrist?","Yes","No"]},{"code":"728509","question":"Is the patient 18 years of age or older?","option":["Yes","No","(728510) Does the patient have severe agitation/aggression requiring pharmacotherapy associated with a psychiatric disorder, substance intoxication, or other organic cause?"]},{"code":"","question":"Yes","option":["No","(728511) Has the patient not responded to less invasive management strategies such as verbal de-escalation?","Yes"]},{"code":"","question":"No","option":["(728512) Is the patient characterized by having a contraindication to or has failed a trial of first-line immediate-acting medications or is willing to take oral medication?","Yes","No"]},{"code":"728513","question":"Is the requested dose within FDA-approved labeling or generally accepted guidelines (i.e., 10 mg as a single dose)?","option":["Yes","No","(728514) Is chart documentation provided detailing the symptoms and management that support the criteria above?"]},{"code":"","question":"Yes","option":["No","(728515) For bipolar disorder, schizophrenia, or schizoaffective disorder, is there documented clinical response to therapy such as clinical improvement or stability in condition?","Yes"]},{"code":"","question":"No","option":["(728516) Does the patient maintain adherence to the prescribed dosing regimen as evidenced by pharmacy claims record?","Yes","No"]},{"code":"728517","question":"Is there documentation indicating that symptoms of agitation/aggression have responded but aggressive behavior is not yet fully resolved or controlled?","option":["Yes","No",null]}]},{"policyName":"Azelaic acid 15% gel (PG059)  (PG059)Policy","policyLink":"https://genhealth.ai/policy/oscar/534370ba-azelaic-acid-15-gel-pg059","procedureName":"Azelaic acid 15% gel","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/2bhkDdfZBon3OwyecEfHsd/19ac57b40d6106b250a5aca0bdad10e0/PG059_azelaic_acid_15-_gel.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"630777","question":"Is the patient 18 years of age or older?","option":["Yes","No","NA"]},{"code":"630778","question":"Is azelaic acid 15% gel being prescribed for the treatment of inflammatory papules and pustules of mild to moderate rosacea?","option":["Yes","No","NA"]},{"code":"630779","question":"Has the patient been unable to use, or adequately tried and failed a minimum one (1) month trial of topical metronidazole?","option":["Yes","No","NA"]},{"code":"630780","question":"Is azelaic acid 15% gel being used for indications other than inflammatory papules and pustules of mild to moderate rosacea?","option":["Yes","No","NA"]}],"Contraindications":[{"code":"630777","question":"Is the patient 18 years of age or older?","option":["Yes","No","NA"]},{"code":"630778","question":"Is azelaic acid 15% gel being prescribed for the treatment of inflammatory papules and pustules of mild to moderate rosacea?","option":["Yes","No","NA"]},{"code":"630779","question":"Has the patient been unable to use, or adequately tried and failed a minimum one (1) month trial of topical metronidazole?","option":["Yes","No","NA"]},{"code":"630780","question":"Is azelaic acid 15% gel being used for indications other than inflammatory papules and pustules of mild to moderate rosacea?","option":["Yes","No","NA"]}]},{"policyName":"Azstarys (serdexmethylphenidate and dexmethylphenidate) (PG130)  (PG130)Policy","policyLink":"https://genhealth.ai/policy/oscar/e31c372e-azstarys-serdexmethylphenidate-and-dexmethylphenidate-pg130","procedureName":"Azstarys (serdexmethylphenidate and dexmethylphenidate) Initial Authorization","effectiveDate":"NA","lastReviewedDate":"NA","originalDocumentLink":"https://assets.ctfassets.net/plyq12u1bv8a/6VRXbXVHsOSw4C3plP8fHC/da79a6bf0033bb91b1292aeb5ee50955/PG130_Azstarys__serdexmethylphenidate_and_dexmethylphenidate_.pdf","type":"Oscar","PlanName":"Commercial Clinical Policy","Indications":[{"code":"910043","question":"Is the patient 6 years of age or older?","option":["Yes","No","(910044) Does the patient have a diagnosis of attention-deficit/hyperactivity disorder (ADHD) per DSM-5 criteria?"]},{"code":"","question":"Yes","option":["No","(910045) Has the patient been unable to use or inadequately tried and failed two preferred long-acting once-daily alternate medications (e.g., Adderall XR, Concerta)?","Yes"]},{"code":"","question":"No","option":["(910046) Is clinical chart documentation provided for review to substantiate the above requirements?","Yes","No"]},{"code":"910047","question":"Is there recent chart documentation (within the last 6 months) showing that the patient has experienced clinical benefits from Azstarys?","option":["Yes","No","(910048) Did the patient achieve target functional goals established at the onset of therapy or show improvements in core symptoms of inattention and hyperactivity/impulsivity?"]},{"code":"","question":"Yes","option":["No","NA","(910049) Is Azstarys being used for an indication other than ADHD as per DSM-5 criteria?"]},{"code":"","question":"Yes","option":["No",null,null]}],"Contraindications":[{"code":"910043","question":"Is the patient 6 years of age or older?","option":["Yes","No","(910044) Does the patient have a diagnosis of attention-deficit/hyperactivity disorder (ADHD) per DSM-5 criteria?"]},{"code":"","question":"Yes","option":["No","(910045) Has the patient been unable to use or inadequately tried and failed two preferred long-acting once-daily alternate medications (e.g., Adderall XR, Concerta)?","Yes"]},{"code":"","question":"No","option":["(910046) Is clinical chart documentation provided for review to substantiate the above requirements?","Yes","No"]},{"code":"910047","question":"Is there recent chart documentation (within the last 6 months) showing that the patient has experienced clinical benefits from Azstarys?","option":["Yes","No","(910048) Did the patient achieve target functional goals established at the onset of therapy or show improvements in core symptoms of inattention and hyperactivity/impulsivity?"]},{"code":"","question":"Yes","option":["No","NA","(910049) Is Azstarys being used for an indication other than ADHD as per DSM-5 criteria?"]},{"code":"","question":"Yes","option":["No",null,null]}]}]}
+{
+  "title": "Anthem Blue Cross Connecticut Medical Policy and Prior Auth Forms",
+  "MedicalPolicyDocuments": [
+    {
+      "ADMIN.00002  Preventive Health Guidelines  (ADMIN.00002)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/768ba6b0-admin-00002-preventive-health-guidelines"
+    },
+    {
+      "ADMIN.00004  Medical Necessity Criteria  (ADMIN.00004)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/e8398563-admin-00004-medical-necessity-criteria"
+    },
+    {
+      "ADMIN.00007  Immunizations  (ADMIN.00007)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/c554d0b6-admin-00007-immunizations"
+    },
+    {
+      "ANC.00006  Biomagnetic Therapy  (ANC.00006)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/33b83042-anc-00006-biomagnetic-therapy"
+    },
+    {
+      "ANC.00007  Cosmetic and Reconstructive Services: Skin Related  (ANC.00007)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/1c036cb7-anc-00007-cosmetic-and-reconstructive-services-skin-related"
+    },
+    {
+      "ANC.00008  Cosmetic and Reconstructive Services of the Head and Neck  (ANC.00008)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/da3d42e9-anc-00008-cosmetic-and-reconstructive-services-of-the-head-and-neck"
+    },
+    {
+      "ANC.00009  Cosmetic and Reconstructive Services of the Trunk, Groin, and Extremities  (ANC.00009)Policy": "https://genhealth.ai/policy/anthem-bluecross-ct/8b1501a9-anc-00009-cosmetic-and-reconstructive-services-of-the-trunk-groin-and-extremities"
+    }
+  ],
+  "policies": [
+    {
+      "policyName": "ADMIN.00002  Preventive Health Guidelines  (ADMIN.00002)Policy",
+      "policyLink": "https://genhealth.ai/policy/anthem-bluecross-ct/768ba6b0-admin-00002-preventive-health-guidelines",
+      "procedureName": "Preventive Services Recommendations",
+      "effectiveDate": "06/28/2023",
+      "lastReviewedDate": "05/11/2023",
+      "originalDocumentLink": "https://www.anthem.com/dam/medpolicies/abcbs/active/policies/mp_pw_a044125.html",
+      "type": "Anthem Blue Cross Connecticut",
+      "PlanName": "Commercial Clinical Policy",
+      "Indications": [
+        {
+          "code": "838151",
+          "question": "Is the preventive service in question recommended by a referenced organization listed in the policy?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "838152",
+          "question": "Does a specific medical policy or clinical UM guideline take precedence over the referenced preventive services guidelines for the topic in question?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ],
+      "Contraindications": [
+        {
+          "code": "838151",
+          "question": "Is the preventive service in question recommended by a referenced organization listed in the policy?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "838152",
+          "question": "Does a specific medical policy or clinical UM guideline take precedence over the referenced preventive services guidelines for the topic in question?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ]
+    },
+    {
+      "policyName": "ADMIN.00004  Medical Necessity Criteria  (ADMIN.00004)Policy",
+      "policyLink": "https://genhealth.ai/policy/anthem-bluecross-ct/e8398563-admin-00004-medical-necessity-criteria",
+      "procedureName": "Medical Necessity Criteria",
+      "effectiveDate": "06/28/2023",
+      "lastReviewedDate": "05/11/2023",
+      "originalDocumentLink": "https://www.anthem.com/dam/medpolicies/abcbs/active/policies/mp_pw_a044145.html",
+      "type": "Anthem Blue Cross Connecticut",
+      "PlanName": "Commercial Clinical Policy",
+      "Indications": [
+        {
+          "code": "148156",
+          "question": "Is the service being provided for the purpose of preventing, evaluating, diagnosing or treating an illness, injury or disease or its symptoms?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "148157",
+          "question": "Is the service in accordance with generally accepted standards of medical practice?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "148158",
+          "question": "Is the service clinically appropriate in terms of type, frequency, extent, site and duration and considered effective for the patient's illness, injury or disease?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "148159",
+          "question": "Is the service not primarily for the convenience of the patient, physician or other health care provider?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "148160",
+          "question": "Is the service not more costly than an alternative service or sequence of services at least as likely to produce equivalent therapeutic or diagnostic results as to the diagnosis or treatment of the patient's illness, injury or disease?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ]
+    },
+    {
+      "policyName": "ADMIN.00007  Immunizations  (ADMIN.00007)Policy",
+      "policyLink": "https://genhealth.ai/policy/anthem-bluecross-ct/c554d0b6-admin-00007-immunizations",
+      "procedureName": "Childhood Immunizations",
+      "effectiveDate": "06/28/2023",
+      "lastReviewedDate": "05/11/2023",
+      "originalDocumentLink": "https://www.anthem.com/dam/medpolicies/abcbs/active/policies/mp_pw_a044155.html",
+      "type": "Anthem Blue Cross Connecticut",
+      "PlanName": "Commercial Clinical Policy",
+      "Indications": [
+        {
+          "code": "489708",
+          "question": "Are the immunizations in accordance with the most recent recommendations of the AAFP or AAP, or are they affirmative recommendations of the ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "489709",
+          "question": "Are the immunizations requested outside of the recommended guidelines by AAFP, AAP, or ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "489710",
+          "question": "Are the adult immunizations in accordance with the most recent recommendations of the AAFP, or are they affirmative recommendations of the ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "489711",
+          "question": "Are the adult immunizations requested outside of the recommended guidelines by AAFP or ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ],
+      "Contraindications": [
+        {
+          "code": "489708",
+          "question": "Are the immunizations in accordance with the most recent recommendations of the AAFP or AAP, or are they affirmative recommendations of the ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "489709",
+          "question": "Are the immunizations requested outside of the recommended guidelines by AAFP, AAP, or ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "489710",
+          "question": "Are the adult immunizations in accordance with the most recent recommendations of the AAFP, or are they affirmative recommendations of the ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "489711",
+          "question": "Are the adult immunizations requested outside of the recommended guidelines by AAFP or ACIP for the CDC?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ]
+    },
+    {
+      "policyName": "ANC.00007  Cosmetic and Reconstructive Services: Skin Related  (ANC.00007)Policy",
+      "policyLink": "https://genhealth.ai/policy/anthem-bluecross-ct/1c036cb7-anc-00007-cosmetic-and-reconstructive-services-skin-related",
+      "procedureName": "Chemical Peels for Active Acne",
+      "effectiveDate": "06/28/2023",
+      "lastReviewedDate": "05/11/2023",
+      "originalDocumentLink": "https://www.anthem.com/dam/medpolicies/abcbs/active/policies/mp_pw_a050278.html",
+      "type": "Anthem Blue Cross Connecticut",
+      "PlanName": "Commercial Clinical Policy",
+      "Indications": [
+        {
+          "code": "830984",
+          "question": "Is the chemical peel being performed to treat active acne?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830985",
+          "question": "Is there documented evidence of 10 or more actinic keratoses or pre-malignant skin lesions?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830986",
+          "question": "Have the lesions failed to respond to topical retinoid treatment, topical chemotherapeutic agents, and cryotherapy?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830987",
+          "question": "Is there documented evidence of significant functional impairment such as bleeding or interference with vision?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830988",
+          "question": "Can the procedure be reasonably expected to improve the functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830989",
+          "question": "Is the rosacea severe and refractory to standard medical therapy?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830990",
+          "question": "Do preoperative photos document the clinical skin changes requiring treatment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830991",
+          "question": "Is dermabrasion being used for the treatment of actinic keratoses, other pre-malignant skin lesions, or localized non-melanoma malignant skin lesions?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830992",
+          "question": "Is permanent hair removal indicated for recurrent infected cyst or after surgical treatment of pilonidal sinus disease?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "830993",
+          "question": "Is tattooing done as part of a medically necessary therapeutic treatment, such as radiation therapy?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ]
+    },
+    {
+      "policyName": "ANC.00008  Cosmetic and Reconstructive Services of the Head and Neck  (ANC.00008)Policy",
+      "policyLink": "https://genhealth.ai/policy/anthem-bluecross-ct/da3d42e9-anc-00008-cosmetic-and-reconstructive-services-of-the-head-and-neck",
+      "procedureName": "Facial Plastic Surgery",
+      "effectiveDate": "NA",
+      "lastReviewedDate": "02/16/2023",
+      "originalDocumentLink": "https://www.anthem.com/dam/medpolicies/abcbs/active/policies/mp_pw_a050276.html",
+      "type": "Anthem Blue Cross Connecticut",
+      "PlanName": "Commercial Clinical Policy",
+      "Indications": [
+        {
+          "code": "398811",
+          "question": "Is the facial plastic surgery required to correct a significant functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398812) Can the procedure reasonably be expected to improve the functional impairment?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398813) Is the facial plastic surgery intended solely to change physical appearance considered within normal human anatomic variation?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398814) Is the otoplasty performed to correct a structure causing hearing loss or to facilitate the use of a hearing aid/device?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398815",
+          "question": "Is the procedure reasonably expected to improve the functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398816) Does an audiogram document a loss of at least 15 decibels in the affected ear(s)?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398817) Is the otoplasty intended solely to change the physical appearance within normal human anatomic variation, such as repair of ear lobes or correcting protruding ears?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398818) Is the otoplasty using a custom-fabricated device, including alloplastic implants?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398819",
+          "question": "Does medical record documentation include evidence of bleeding or infection from rhinophyma?",
+          "option": [
+            "Yes",
+            "No",
+            "(398820) Can the procedure reasonably be expected to improve functional impairment as a result of bleeding or infection?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398821) Is the excision or shaving of rhinophyma not based on functional impairment due to bleeding or infection?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398822) Does the medical record include evidence of failed conservative therapy for severe airway obstruction that won’t respond to septoplasty alone?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398823",
+          "question": "Can the procedure be reasonably expected to improve the functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398824) Is the rhinoplasty or rhinoseptoplasty intended exclusively for modifying the shape or size of the nose without functional impairment?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398825) Is the face lift intended to address wrinkles, excess skin, or tightening of muscles not related to accidental injury, disease, trauma, or congenital defect?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398826) Are the cranial nerve procedures necessary to correct a significant functional impairment?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398827",
+          "question": "Can the procedure be reasonably expected to improve the functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398828) Are the cranial nerve procedures intended without meeting medically necessary or reconstructive criteria?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398829) Is the ear or body piercing performed for any reason?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "398830",
+          "question": "Is the removal of frown lines performed for any reason?",
+          "option": [
+            "Yes",
+            "(398831) Is the neck tuck performed for any reason?",
+            "Yes"
+          ]
+        }
+      ],
+      "Contraindications": [
+        {
+          "code": "398811",
+          "question": "Is the facial plastic surgery required to correct a significant functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398812) Can the procedure reasonably be expected to improve the functional impairment?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398813) Is the facial plastic surgery intended solely to change physical appearance considered within normal human anatomic variation?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398814) Is the otoplasty performed to correct a structure causing hearing loss or to facilitate the use of a hearing aid/device?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398815",
+          "question": "Is the procedure reasonably expected to improve the functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398816) Does an audiogram document a loss of at least 15 decibels in the affected ear(s)?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398817) Is the otoplasty intended solely to change the physical appearance within normal human anatomic variation, such as repair of ear lobes or correcting protruding ears?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398818) Is the otoplasty using a custom-fabricated device, including alloplastic implants?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398819",
+          "question": "Does medical record documentation include evidence of bleeding or infection from rhinophyma?",
+          "option": [
+            "Yes",
+            "No",
+            "(398820) Can the procedure reasonably be expected to improve functional impairment as a result of bleeding or infection?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398821) Is the excision or shaving of rhinophyma not based on functional impairment due to bleeding or infection?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398822) Does the medical record include evidence of failed conservative therapy for severe airway obstruction that won’t respond to septoplasty alone?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398823",
+          "question": "Can the procedure be reasonably expected to improve the functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398824) Is the rhinoplasty or rhinoseptoplasty intended exclusively for modifying the shape or size of the nose without functional impairment?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398825) Is the face lift intended to address wrinkles, excess skin, or tightening of muscles not related to accidental injury, disease, trauma, or congenital defect?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "",
+          "question": "No",
+          "option": [
+            "(398826) Are the cranial nerve procedures necessary to correct a significant functional impairment?",
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "code": "398827",
+          "question": "Can the procedure be reasonably expected to improve the functional impairment?",
+          "option": [
+            "Yes",
+            "No",
+            "(398828) Are the cranial nerve procedures intended without meeting medically necessary or reconstructive criteria?"
+          ]
+        },
+        {
+          "code": "",
+          "question": "Yes",
+          "option": [
+            "No",
+            "(398829) Is the ear or body piercing performed for any reason?",
+            "Yes"
+          ]
+        },
+        {
+          "code": "398830",
+          "question": "Is the removal of frown lines performed for any reason?",
+          "option": [
+            "Yes",
+            "(398831) Is the neck tuck performed for any reason?",
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "policyName": "ANC.00009  Cosmetic and Reconstructive Services of the Trunk, Groin, and Extremities  (ANC.00009)Policy",
+      "policyLink": "https://genhealth.ai/policy/anthem-bluecross-ct/8b1501a9-anc-00009-cosmetic-and-reconstructive-services-of-the-trunk-groin-and-extremities",
+      "procedureName": "Brachioplasty",
+      "effectiveDate": "01/03/2024",
+      "lastReviewedDate": "11/09/2023",
+      "originalDocumentLink": "https://www.anthem.com/dam/medpolicies/abcbs/active/policies/mp_pw_a050277.html",
+      "type": "Anthem Blue Cross Connecticut",
+      "PlanName": "Commercial Clinical Policy",
+      "Indications": [
+        {
+          "code": "727603",
+          "question": "Is the brachioplasty being performed due to significant functional impairment such as redundant or excessive skin interfering with activities of daily living or causing persistent dermatitis, cellulitis, or skin ulcerations?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727604",
+          "question": "Has the significant functional impairment persisted despite optimal medical management, including topical or systemic treatments for infection?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727605",
+          "question": "Is the procedure reasonably expected to improve the significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727606",
+          "question": "Is the brachioplasty solely for cosmetic purposes without any significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727607",
+          "question": "Is the buttock or thigh lift being performed due to significant functional impairment such as redundant or excessive skin interfering with activities of daily living or causing persistent dermatitis, cellulitis, or skin ulcerations?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727608",
+          "question": "Has the significant functional impairment persisted despite optimal medical management, including topical or systemic treatments for infection?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727609",
+          "question": "Is the procedure reasonably expected to improve the significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727610",
+          "question": "Is the buttock or thigh lift solely for cosmetic purposes without any significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727611",
+          "question": "Is there evidence of a significant functional impairment due to congenital abnormalities of the trunk and groin?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727612",
+          "question": "Can the procedure reasonably be expected to improve the functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727613",
+          "question": "In the absence of a significant functional impairment, is the correction of congenital abnormalities solely for cosmetic purposes?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727614",
+          "question": "Has lymphedema been documented?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727615",
+          "question": "Have signs and symptoms not responded to at least 3 consecutive months of optimal medical management (compression garments, manual lymph drainage, complex/complete decongestive therapy)?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727616",
+          "question": "For each anatomical region being considered for treatment, is there either documented significant functional impairment directly resulting from lymphedema or documented medical complications from lymphedema (recurrent severe cellulitis or neurological symptoms) that are not amenable to conservative management but are significant enough to warrant surgical intervention?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727617",
+          "question": "Is lipectomy or liposuction reasonably expected to improve the functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727618",
+          "question": "Is the plan of care to include wearing compression garments postoperatively to maintain benefits?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727619",
+          "question": "Is there photographic documentation consistent with the diagnosis of lymphedema in the affected extremities?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727620",
+          "question": "Is the lipectomy or liposuction being performed without meeting the medically necessary criteria as mentioned above?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727621",
+          "question": "Has a diagnosis of lipedema been documented, including bilateral, symmetrical fatty tissue hypertrophy on limbs sparing hands and feet, negative Stemmer sign, tendency to bruise, stable limb circumference with weight reduction if applicable, and pain on pressure?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727622",
+          "question": "Have signs and symptoms not responded to at least 3 consecutive months of optimal medical management (compression garments and manual lymphatic drainage)?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727623",
+          "question": "For each anatomical region being considered for treatment, is there either documented significant functional impairment directly resulting from lipedema or documented medical complications from lipedema (severe discomfort, recurrent skin infections, venous insufficiency) that are not amenable to conservative management but significant enough to warrant surgical intervention?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727624",
+          "question": "Is lipectomy or liposuction reasonably expected to improve the functional impairment or medical complications?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727625",
+          "question": "Is the plan of care to include wearing compression garments postoperatively to maintain benefits?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727626",
+          "question": "Is there photographic documentation consistent with the diagnosis of lipedema in the affected extremities?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727627",
+          "question": "Is the lipectomy or liposuction being performed without meeting the medically necessary criteria as mentioned above?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727628",
+          "question": "For pectus excavatum repair, does the individual have a Haller index of greater than or equal to 3.2?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727629",
+          "question": "For pectus carinatum repair, does the individual have a Haller index less than or equal to 2.0?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727630",
+          "question": "Is the surgical repair of pectus excavatum or carinatum being performed without meeting the specified Haller index criteria?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ],
+      "Contraindications": [
+        {
+          "code": "727603",
+          "question": "Is the brachioplasty being performed due to significant functional impairment such as redundant or excessive skin interfering with activities of daily living or causing persistent dermatitis, cellulitis, or skin ulcerations?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727604",
+          "question": "Has the significant functional impairment persisted despite optimal medical management, including topical or systemic treatments for infection?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727605",
+          "question": "Is the procedure reasonably expected to improve the significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727606",
+          "question": "Is the brachioplasty solely for cosmetic purposes without any significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727607",
+          "question": "Is the buttock or thigh lift being performed due to significant functional impairment such as redundant or excessive skin interfering with activities of daily living or causing persistent dermatitis, cellulitis, or skin ulcerations?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727608",
+          "question": "Has the significant functional impairment persisted despite optimal medical management, including topical or systemic treatments for infection?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727609",
+          "question": "Is the procedure reasonably expected to improve the significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727610",
+          "question": "Is the buttock or thigh lift solely for cosmetic purposes without any significant functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727611",
+          "question": "Is there evidence of a significant functional impairment due to congenital abnormalities of the trunk and groin?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727612",
+          "question": "Can the procedure reasonably be expected to improve the functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727613",
+          "question": "In the absence of a significant functional impairment, is the correction of congenital abnormalities solely for cosmetic purposes?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727614",
+          "question": "Has lymphedema been documented?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727615",
+          "question": "Have signs and symptoms not responded to at least 3 consecutive months of optimal medical management (compression garments, manual lymph drainage, complex/complete decongestive therapy)?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727616",
+          "question": "For each anatomical region being considered for treatment, is there either documented significant functional impairment directly resulting from lymphedema or documented medical complications from lymphedema (recurrent severe cellulitis or neurological symptoms) that are not amenable to conservative management but are significant enough to warrant surgical intervention?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727617",
+          "question": "Is lipectomy or liposuction reasonably expected to improve the functional impairment?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727618",
+          "question": "Is the plan of care to include wearing compression garments postoperatively to maintain benefits?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727619",
+          "question": "Is there photographic documentation consistent with the diagnosis of lymphedema in the affected extremities?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727620",
+          "question": "Is the lipectomy or liposuction being performed without meeting the medically necessary criteria as mentioned above?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727621",
+          "question": "Has a diagnosis of lipedema been documented, including bilateral, symmetrical fatty tissue hypertrophy on limbs sparing hands and feet, negative Stemmer sign, tendency to bruise, stable limb circumference with weight reduction if applicable, and pain on pressure?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727622",
+          "question": "Have signs and symptoms not responded to at least 3 consecutive months of optimal medical management (compression garments and manual lymphatic drainage)?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727623",
+          "question": "For each anatomical region being considered for treatment, is there either documented significant functional impairment directly resulting from lipedema or documented medical complications from lipedema (severe discomfort, recurrent skin infections, venous insufficiency) that are not amenable to conservative management but significant enough to warrant surgical intervention?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727624",
+          "question": "Is lipectomy or liposuction reasonably expected to improve the functional impairment or medical complications?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727625",
+          "question": "Is the plan of care to include wearing compression garments postoperatively to maintain benefits?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727626",
+          "question": "Is there photographic documentation consistent with the diagnosis of lipedema in the affected extremities?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727627",
+          "question": "Is the lipectomy or liposuction being performed without meeting the medically necessary criteria as mentioned above?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727628",
+          "question": "For pectus excavatum repair, does the individual have a Haller index of greater than or equal to 3.2?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727629",
+          "question": "For pectus carinatum repair, does the individual have a Haller index less than or equal to 2.0?",
+          "option": ["Yes", "No", "NA"]
+        },
+        {
+          "code": "727630",
+          "question": "Is the surgical repair of pectus excavatum or carinatum being performed without meeting the specified Haller index criteria?",
+          "option": ["Yes", "No", "NA"]
+        }
+      ]
+    }
+  ]
+}
